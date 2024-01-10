@@ -1,0 +1,44 @@
+body {
+    background-color: #2C2C2C;
+}
+
+.navbar {
+    background-color: #577AE4;
+    border-bottom: 1px solid;
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+}
+
+#carouselExampleCaptions {
+    margin: 30px auto;
+    max-width: 800px;
+}
+
+.carousel-caption {
+    background-color: rgba(0, 0, 0, 0.7);
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.login-form {
+    max-width: 300px;
+    margin: auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.btn-custom-color {
+    background-color: #577AE4;
+    color: #fff;
+}
+
+h1, h2 {
+    text-align: center;
+    margin-top: 30px;
+    color: #fff;
+}
